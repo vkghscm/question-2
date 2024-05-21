@@ -1,2 +1,2 @@
 # question-2
-question2-repo
+This is repo for question 2 and includes files related to question 2 
